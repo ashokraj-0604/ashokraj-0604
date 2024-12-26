@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashokraj-0604
-- 👀 I’m interested in java programming
-- 🌱 I’m currently learning computer science engineering
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Computer Science Engineering
 - 💞️ I’m looking to collaborate on a new project 
 - 📫 How to reach me ashokraj.jun15@gmail.com
 - 😄 Pronouns: ashok
